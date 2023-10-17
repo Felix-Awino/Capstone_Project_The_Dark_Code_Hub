@@ -52,7 +52,7 @@ The dataset used is publicly available through the [Open Science Framework (OSF)
 
 ## Contributing
 
-We welcome contributions! Please read the contribution guidelines at (github link with contributing guidelines)
+We welcome contributions! Please read the contribution guidelines at: https://github.com/Felix-Awino/Capstone_Project_The_Dark_Code_Hub/tree/main/Contributing%20guidelines
 
 ## Contact
 
