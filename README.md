@@ -43,7 +43,7 @@ The dataset used is publicly available through the [Open Science Framework (OSF)
 - `NLB_Detection_Capstone_Project.ipynb`: https://github.com/Felix-Awino/Capstone_Project_The_Dark_Code_Hub/tree/main/COLAB%20NOTEBOOK
 - `/data/`: https://osf.io/p67rz/
 - `/results/`: Graphs, visualizations, and analytical results-PPT
-- - `/website/`: Find our website here [**NLB_Maize_detection_Engine**](https://robinzulu-nlb-detection-model-app-5d8z5m.streamlit.app/)
+- `/website/`: Find our website here [**NLB_Maize_detection_Engine**](https://robinzulu-nlb-detection-model-app-5d8z5m.streamlit.app/)
 
 
 ## Usage
