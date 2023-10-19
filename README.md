@@ -118,7 +118,7 @@ The table below outlines all the model results:
 
 ## Contributing
 
-We welcome contributions! Please read the contribution guidelines at: https://github.com/Felix-Awino/Capstone_Project_The_Dark_Code_Hub/tree/main/Contributing%20guidelines
+We welcome contributions! Please read the contribution guidelines at: [**Contributing Guidelines**](https://github.com/Felix-Awino/Capstone_Project_The_Dark_Code_Hub/tree/main/Contributing%20guidelines)
 
 ## Contact
 
