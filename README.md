@@ -18,6 +18,7 @@ OpenCV: Used for image manipulation and processing, essential for preparing the 
 Scikit-learn: For splitting the dataset and model evaluation metrics.
 Matplotlib and Seaborn: For creating visualizations to analyze the dataset and interpret the model's performance.
 Pandas and Numpy: For data manipulation and analysis.
+ 
  You can install them using pip:
 ```
 pip install numpy pandas matplotlib seaborn tensorflow scikit-learn
@@ -50,15 +51,7 @@ The dataset used is publicly available through the [Open Science Framework (OSF)
 
 1. Open the collab notebook `NLB_Detection_Capstone_Project.ipynb`.
 2. If using locally, run all the cells in sequence. If using Google Colab, you can simply click on `Runtime > Run all`.
-3. The notebook includes detailed comments and explanations. Follow each section to understand the data preprocessing, model building, and evaluation steps.
-
-To create a comprehensive and informative README, we'll proceed as follows:
-
-1. **Methodology**: Since the specific details are not extracted from the notebook, I'll construct a standard methodology section based on common practices in machine learning projects involving image classification. It will cover aspects like data preprocessing, model building, training, and evaluation.
-
-2. **Results**: I will parse the code cells to identify any performance metrics or graphs indicating the results of your model. These findings will be summarized in the README. If specific results are not identified, I will create a placeholder for you to add detailed results later.
-
-3. **Technologies Used**: Based on the import statements, we will list the technologies, libraries, and frameworks used in the project.
+3. The notebook includes detailed comments and explanations. Follow each section to understand the data preprocessing, model building, and evaluation steps. Below we have briefly outlined the methology used:
 
 **Methodology**
 
@@ -69,10 +62,11 @@ The first step in our analysis involved gathering a diverse set of maize plant i
 
 ### 2. Data Preprocessing
 Once collected, the images underwent several preprocessing steps to optimize them for training. This phase included:
-
+   - **Class balancing**: Data distribution between the classes was imbalanced. Oversampling, random selection, and class weights were used to balance the classes.
    - **Resizing**: To ensure consistency in input size, all images were resized to uniform dimensions.
    - **Normalization**: The pixel values were normalized to a specific range suitable for the model's input.
-   - **Data Augmentation**: To enhance the model's generalization, data augmentation techniques such as rotation, zooming, and horizontal flipping were applied to the training images.
+   - **Data Augmentation**: To enhance the model's generalization, data augmentation techniques such as rotation, zooming, and horizontal flipping were applied to the   
+       training images.
    - **Splitting**: The dataset was divided into training, validation, and testing sets to evaluate the model's performance accurately.
 
 ### 3. Model Development
