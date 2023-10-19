@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+pillow
+numpy
+keras
+tensorflow==2.14.0
+streamlit
+opencv-python
