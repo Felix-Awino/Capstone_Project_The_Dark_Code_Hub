@@ -96,7 +96,7 @@ Transfer Learning Model (VGG16)
 - Utilized a learning rate scheduler for optimization.
 
 ### 5. Model Deployment
-The final step involved deploying the trained VGG16 model for real-world use. The deployment was structured to ensure ease of use, where end users can upload maize plant images and receive instant feedback on the health status based on the model's prediction.
+The final step involved deploying the trained VGG16 model for real-world use. The deployment was structured to ensure ease of use, where end users can upload maize plant images and receive instant feedback on the health status based on the model's prediction.Link to the website [**NLB_Maize_detection_Engine**](https://robinzulu-nlb-detection-model-app-5d8z5m.streamlit.app/)
 
 ## Results
 Our  best-performing model model demonstrated promising performance in identifying Northern Leaf Blight in maize plants. The evaluation metrics highlighted the model's ability to classify the health status of the plants accurately, underscoring its potential as a valuable tool in agricultural management.
